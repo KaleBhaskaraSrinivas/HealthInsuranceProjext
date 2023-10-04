@@ -21,15 +21,13 @@ Apply responsive design principles to all pages within the hospital module to im
 
 Differentiate between the "About," "Home," and "Dashboard" pages to provide users with clear and distinct content.
 
-Need to fix the logout functionality to ensure users can securely log out of their accounts.
-
-
 
 Customers:
 
 ------------------------
 
 No security
+
 forgot password not working
 
 
