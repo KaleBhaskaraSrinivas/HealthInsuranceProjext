@@ -11,6 +11,10 @@ Need to Fix the download ZIP functionality to allow users to access their files 
 
 Review and refine the claim tracking steps to make them more user-friendly.
 
+templates not working in some pages 
+
+settlements payments side having problem.
+
 Hospital:
 
 --------------
