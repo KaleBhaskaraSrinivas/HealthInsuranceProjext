@@ -6,9 +6,6 @@ Enhance the visual design and layout of the login page to make it more user-frie
 
 Make all pages responsive to ensure a consistent and optimal user experience across different devices and screen sizes.
 
-Revise the policy schedule page to align with the overall design and style of the application for a good look.
-
-Address issues with downloading Excel and PDF files on the policy schedule page to ensure seamless functionality.
 
 Implement proper validations within the total claims modules on the ask documents page.
 
