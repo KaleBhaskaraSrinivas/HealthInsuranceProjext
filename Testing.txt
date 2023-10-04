@@ -2,10 +2,8 @@ Insurance:
 
 -----------------------------
 
-Enhance the visual design and layout of the login page to make it more user-friendly.
 
 Make all pages responsive to ensure a consistent and optimal user experience across different devices and screen sizes.
-
 
 Implement proper validations within the total claims modules on the ask documents page.
 
