@@ -9,6 +9,3 @@ Insurance and hospital
 Because of thymleaf i am cannot able to host in aws sir
 
 
-File size more than 25mb please donload zip from below link sir
-
-https://replit.com/@KaleBhaskara/HealthInsurance#index.html
