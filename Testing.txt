@@ -11,7 +11,13 @@ Need to Fix the download ZIP functionality to allow users to access their files 
 
 Review and refine the claim tracking steps to make them more user-friendly.
 
+In claim process bill the bill is not showing it is showing white label error.
+
+and path they mentioned is not relative path
+
 templates not working in settlements
+
+policy schedule page excel download and pdf not working
 
 settlements payments side having problem.
 
@@ -32,7 +38,6 @@ Customers:
 
 No security
 
-forgot password not working
 
 
 
